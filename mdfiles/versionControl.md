@@ -1,10 +1,10 @@
 ## Version Control
 
-- [ ] Use Git for version control.
-- [ ] Follow [Git branching strategy](#) for managing code changes.
-- [ ] Use [commit message guidelines](#13-writing-good-commit-messages) for clear and informative commit messages.
+- Use Git for version control.
+- Follow [Git branching strategy](#) for managing code changes.
+- Use [commit message guidelines](#13-writing-good-commit-messages) for clear and informative commit messages.
 
-![Git](/images/git.png)
+![Git](../images/git.png)
 <a name="some-git-rules"></a>
 
 ### 1.1 Some Git rules
